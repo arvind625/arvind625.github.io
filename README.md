@@ -1,2 +1,2 @@
-# Arvind625.github.io
+# arvind625.github.io
 My Portfolio website
